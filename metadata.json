@@ -1,0 +1,6 @@
+{
+  "name": "Coin Quest 3D - Educational Platformer Game",
+  "description": "Game petualangan platformer edukasi 3D Voxel interaktif mata pelajaran Matematika SD Kelas 6 Fase C: Rasio & Perbandingan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
